@@ -1212,6 +1212,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "1779241246675",
+              "title": "美国免税州地址生成器",
+              "href": "https://mockaddress.com/",
+              "description": "在线生成真实的美国免税州地址、邮编、电话",
+              "icon": "/assets/images/default-website-icon.png",
+              "enabled": true
             }
           ],
           "enabled": true
